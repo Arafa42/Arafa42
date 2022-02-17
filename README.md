@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2024%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -42,16 +44,22 @@ Sunday       76 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      0 secs              █████████████░░░░░░░░░░░░   51.63% 
+Java                     0 secs              ███████████░░░░░░░░░░░░░░   45.95% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42%
 
 🔥 Editors: 
-No Activity Tracked This Week
+CLion                    0 secs              █████████████░░░░░░░░░░░░   51.63% 
+IntelliJ                 0 secs              ████████████░░░░░░░░░░░░░   48.37%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+OPDRACHTEN               0 secs              ███████████░░░░░░░░░░░░░░   45.95% 
+untitled3                0 secs              ██████████░░░░░░░░░░░░░░░   42.18% 
+Datastructures_Examen_Yon0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   9.46% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -72,7 +80,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Arafa42/Arafa42/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/02/2022 23:33:46 UTC
+ Last Updated on 17/02/2022 01:26:40 UTC
 <!--END_SECTION:waka-->
 
 
