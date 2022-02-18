@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -81,7 +81,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Arafa42/Arafa42/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/02/2022 20:33:42 UTC
+ Last Updated on 18/02/2022 22:33:24 UTC
 <!--END_SECTION:waka-->
 
 
