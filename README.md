@@ -1,6 +1,4 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%2026%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
@@ -84,7 +82,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Arafa42/Arafa42/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/02/2022 21:30:28 UTC
+ Last Updated on 22/02/2022 23:33:35 UTC
 <!--END_SECTION:waka-->
 
 
